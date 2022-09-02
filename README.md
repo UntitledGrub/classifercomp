@@ -2,8 +2,8 @@
 Comparison of different classifiers (KNN, Logistic Regression, Random Forest) on a binary classification task
 
 ## Dependencies
-sklearn
-pandas
+sklearn <br />
+pandas <br />
 numpy
 
 ## Implementation
